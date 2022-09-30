@@ -1,11 +1,14 @@
+
+
 <img src="https://github.com/rohit777agrawal/rohit777agrawal/blob/main/githubProfile.gif">
 
 <div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aladin&size=40&duration=4000&pause=1000&color=FFFFFF&background=FFFFFF00&multiline=true&width=1080&height=70&lines=Owner+of+FlagOH%3A+my+personal+entrepreneurship)](https://git.io/typing-svg)
+
 <a href="https://flagoh.web.app/" target="_blank">
-<img src=https://img.shields.io/badge/FlagOH-Website-%FF5B3E/>
-</a>
+  <img src=https://img.shields.io/badge/FlagOH_Website-%2314354C.svg?style=for-the-badge&logo=round&logoColor=white alt=website/>
+  </a>
 <p> Website based on: </p>
   
 ![React](https://img.shields.io/badge/react-%61DBFB.svg?style=for-the-badge&logo=react&logoColor=white)
@@ -17,7 +20,7 @@
 <hr/>
 
 <div align="center">
-  <h1>Connect</h1>
+  <h1>Connect 🤝🏻</h1>
   <a href="https://agrawalrohit.web.app/" target="_blank">
   <img src=https://img.shields.io/badge/PersonalWebsite-%2314354C.svg?style=for-the-badge&logo=round&logoColor=white alt=website style="margin-bottom: 5px;" />
   </a>
@@ -36,7 +39,7 @@
   
   <p> <img src="https://komarev.com/ghpvc/?username=rohit777agrawal" alt="SulthanNK" /> </p>
   
-  ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit777agrawal&count_private=true&show_icons=true&theme=radical&include_all_commits=true&langs_count=10)
+  ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit777agrawal&count_private=true&show_icons=true&theme=radical&include_all_commits=true&langs_count=10&&hide=prs,issues)
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit777agrawal&langs_count=8&theme=radical&layout=compact)](https://github.com/rohit777agrawal/github-readme-stats)
  
@@ -47,7 +50,7 @@
 
 <hr/>
   <div>
-  <h1>Skills</h1>
+  <h1>Skills 🤹🏻 </h1>
     <h3>Frontend Skills</h3>
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -91,23 +94,12 @@
 <hr/>
 
 
+# About me 👋
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning belaying and climbing
+- 👯 I’m looking to collaborate on entrepreneurship ideas
+- 🤔 I’m looking for help with my personal project with experience in React
+- 💬 Ask me about my life and share yours, want to grab coffee ☕ sometime? 
+- 📫 How to reach me: rohit777agrawal@gmail.com
+- ⚡ Fun fact: I am typing this sentence at 4:31am 👀
 
-
-
-
-
-
-<!--
-**rohit777agrawal/rohit777agrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-# Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
