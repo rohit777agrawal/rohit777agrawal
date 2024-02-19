@@ -38,10 +38,6 @@
   </a>
   
   <p> <img src="https://komarev.com/ghpvc/?username=rohit777agrawal" alt="SulthanNK" /> </p>
-  
-  ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit777agrawal&count_private=true&show_icons=true&theme=radical&include_all_commits=true&langs_count=10&&hide=prs,issues)
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit777agrawal&langs_count=8&theme=radical&layout=compact)](https://github.com/rohit777agrawal/github-readme-stats)
  
 
 </div> 
